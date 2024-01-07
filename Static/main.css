@@ -1,0 +1,13 @@
+.Button {
+color:white;
+background-color:red;
+text-align:center;
+}
+.Box {
+width:200px;
+hight:200px;
+border:1px solid black;
+margin:10px;
+padding-left:20px;
+align:center;
+}
